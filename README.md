@@ -2,7 +2,7 @@
 
 Word stemmer based upon Porter 2 stemmer algorithm, written in Elixir 1.0.
 
-http://http://tartarus.org/martin/PorterStemmer/
+http://tartarus.org/martin/PorterStemmer/
 
 ## License
 
